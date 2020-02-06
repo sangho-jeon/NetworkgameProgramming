@@ -1,0 +1,4 @@
+﻿  SpriteRandomSlave.cpp
+c:\users\jongin\desktop\ngp 141g-randomnumcommsol\ngp 142g-randomnumslave\spriterandomslave.cpp(272): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 'sscanf' 선언을 참조하십시오.
+  SpriteRandomSlave.vcxproj -> C:\Users\jongin\Desktop\NGP 141G-RandomNumCommSol\NGP 142G-RandomNumSlave\Debug\SpriteRandomSlave.exe
