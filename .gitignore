@@ -14,7 +14,7 @@
 *.jpg
 *.png
 *.bmp
-
+*.wav
 # Linker output
 *.ilk
 *.map
